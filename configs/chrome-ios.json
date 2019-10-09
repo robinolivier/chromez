@@ -4,7 +4,7 @@
   {"user": "Chris", "email": "thegreenfrog@chromium.org"},
   {"user": "David", "email": "djean@chromium.org"},
   {"user": "Ed", "email": "edchin@chromium.org"},
-  {"user": "Eric", "email": "noyau@chromium.org"},
+  {"user": "Éric", "email": "noyau@chromium.org"},
   {"user": "Eugene", "email": "eugenebut@chromium.org"},
   {"user": "Gauthier", "email": "gambard@chromium.org"},
   {"user": "Javier", "email": "javierrobles@chromium.org"},
@@ -20,6 +20,7 @@
   {"user": "Rohit", "email": "rohitrao@chromium.org"},
   {"user": "Sergio", "email": "sczs@chromium.org"},
   {"user": "Stepan", "email": "stkhapugin@chromium.org"},
+  {"user": "Sylvain", "email": "sdefresne@chromium.org"},
   {"user": "Yi", "email": "mrsuyi@chromium.org"},
   {"user": "Menglu", "email": "huangml@chromium.org"},
   {"user": "Lindsay", "email": "lindsayw@chromium.org"}
